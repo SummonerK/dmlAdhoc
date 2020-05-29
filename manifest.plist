@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.pgyer.com</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://a1.qpic.cn/psc?/V1294x9d3ctckX/dG1Cs.D2daDgcEYKOiud9qoiS0SXqb4Z7r441U7MNiz.Cn7aKkylsnyMRx64wu198Y4EOLGBbUbjUpFye24USQ!!/b&amp;ek=1&amp;kp=1&amp;pt=0&amp;bo=OQA5ADkAOQADEDU!&amp;tl=1&amp;vuin=211321920&amp;tm=1590732000&amp;sce=60-1-1&amp;rf=viewer_311</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://a1.qpic.cn/psc?/V1294x9d3ctckX/dG1Cs.D2daDgcEYKOiud9h5kmhTnHZb6lwqzClfWsINxPXiU7Hakc.Ou1WwS3*UEehzzwJXZXZftlgZzCv8N0g!!/b&amp;ek=1&amp;kp=1&amp;pt=0&amp;bo=AAIAAgACAAIDEDU!&amp;tl=1&amp;vuin=211321920&amp;tm=1590732000&amp;sce=60-1-1&amp;rf=viewer_311</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.dominos.dmlrider</string>
+				<key>bundle-version</key>
+				<string>1.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>riderBossAdHoc</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
